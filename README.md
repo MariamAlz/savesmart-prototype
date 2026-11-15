@@ -21,25 +21,25 @@ A Xamarin.Forms app prototype (Android, iOS, UWP) with a device list, on/off swi
 ## Project structure
 
 ```
-SDP App.sln                  Visual Studio solution
-SDP App/
-  SDP App/                   Shared .NET Standard 2.0 project
+SaveSmart.sln                Visual Studio solution
+SaveSmart/
+  SaveSmart/                 Shared .NET Standard 2.0 project
     AppShell.xaml            Tab bar: Home, Devices, Recommendations
     Views/                   Home, Devices, DeviceDetail, NewDevice, Recommendations, Login pages
     ViewModels/              MVVM view models for each page
     Services/                IDataStore interface and MockDataStore (sample devices)
     Database/                SQLite database and table class
     Models/                  Device model and database initialisation
-  SDP App.Android/           Android head project
-  SDP App.iOS/               iOS head project
-  SDP App.UWP/               Universal Windows head project
+  SaveSmart.Android/         Android head project
+  SaveSmart.iOS/             iOS head project
+  SaveSmart.UWP/             Universal Windows head project
 ```
 
 ## Getting started
 
 1. Install Visual Studio 2019 with the **Mobile development with .NET** (Xamarin) workload. The solution was created with Visual Studio 16.
-2. Open `SDP App.sln`. NuGet restores the packages: Xamarin.Forms 5.0.0.2196, Xamarin.Essentials 1.7.0, sqlite-net-pcl 1.8.116 and tplink-smartdevices 2.0.0.
-3. Set `SDP App.Android` (or the iOS or UWP project) as the startup project and run it on an emulator or a device.
+2. Open `SaveSmart.sln`. NuGet restores the packages: Xamarin.Forms 5.0.0.2196, Xamarin.Essentials 1.7.0, sqlite-net-pcl 1.8.116 and tplink-smartdevices 2.0.0.
+3. Set `SaveSmart.Android` (or the iOS or UWP project) as the startup project and run it on an emulator or a device.
 
 ## Tech
 

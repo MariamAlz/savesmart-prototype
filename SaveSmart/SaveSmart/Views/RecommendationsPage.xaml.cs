@@ -1,0 +1,15 @@
+﻿using System;
+using System.ComponentModel;
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace SaveSmart.Views
+{
+	public partial class RecommendationsPage : ContentPage
+	{
+		public RecommendationsPage()
+		{
+			InitializeComponent();
+		}
+	}
+}

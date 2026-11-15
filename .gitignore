@@ -332,18 +332,18 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-.vs/SDP App/v16/.suo
-SDP App/SDP App.Android/bin/Debug/SDP App.dll
-SDP App/SDP App.Android/bin/Debug/SDP App.pdb
-SDP App/SDP App.Android/obj/Debug/110/_TelemetryProps
-SDP App/SDP App.Android/obj/Debug/110/android/assets/SDP App.dll
-SDP App/SDP App.Android/obj/Debug/110/android/assets/SDP App.pdb
-SDP App/SDP App.Android/obj/Debug/110/SDP App.Android.csproj.AssemblyReference.cache
-SDP App/SDP App/bin/Debug/netstandard2.0/SDP App.dll
-SDP App/SDP App/bin/Debug/netstandard2.0/SDP App.pdb
-SDP App/SDP App/obj/Debug/netstandard2.0/SDP App.csproj.AssemblyReference.cache
-SDP App/SDP App/obj/Debug/netstandard2.0/SDP App.dll
-SDP App/SDP App/obj/Debug/netstandard2.0/SDP App.pdb
+.vs/SaveSmart/v16/.suo
+SaveSmart/SaveSmart.Android/bin/Debug/SaveSmart.dll
+SaveSmart/SaveSmart.Android/bin/Debug/SaveSmart.pdb
+SaveSmart/SaveSmart.Android/obj/Debug/110/_TelemetryProps
+SaveSmart/SaveSmart.Android/obj/Debug/110/android/assets/SaveSmart.dll
+SaveSmart/SaveSmart.Android/obj/Debug/110/android/assets/SaveSmart.pdb
+SaveSmart/SaveSmart.Android/obj/Debug/110/SaveSmart.Android.csproj.AssemblyReference.cache
+SaveSmart/SaveSmart/bin/Debug/netstandard2.0/SaveSmart.dll
+SaveSmart/SaveSmart/bin/Debug/netstandard2.0/SaveSmart.pdb
+SaveSmart/SaveSmart/obj/Debug/netstandard2.0/SaveSmart.csproj.AssemblyReference.cache
+SaveSmart/SaveSmart/obj/Debug/netstandard2.0/SaveSmart.dll
+SaveSmart/SaveSmart/obj/Debug/netstandard2.0/SaveSmart.pdb
 # Visual Studio build output
 bin/
 obj/
