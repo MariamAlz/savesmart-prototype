@@ -344,3 +344,8 @@ SDP App/SDP App/bin/Debug/netstandard2.0/SDP App.pdb
 SDP App/SDP App/obj/Debug/netstandard2.0/SDP App.csproj.AssemblyReference.cache
 SDP App/SDP App/obj/Debug/netstandard2.0/SDP App.dll
 SDP App/SDP App/obj/Debug/netstandard2.0/SDP App.pdb
+# Visual Studio build output
+bin/
+obj/
+.vs/
+*.user
