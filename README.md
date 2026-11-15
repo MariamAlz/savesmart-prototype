@@ -47,8 +47,8 @@ C#, Xamarin.Forms (Shell, MVVM), Xamarin.Essentials, sqlite-net-pcl, tplink-smar
 
 ## Related
 
-- [SaveSmart-AI](https://github.com/MariamAlz/SaveSmart-AI) (forecasting models)
-- [SaveSmart-App](https://github.com/MariamAlz/SaveSmart-App) (team's final system)
+- [savesmart-ai](https://github.com/MariamAlz/savesmart-ai) (forecasting models)
+- [savesmart-app](https://github.com/MariamAlz/savesmart-app) (team's final system)
 
 ## Credits
 
